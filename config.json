@@ -1,0 +1,13 @@
+{
+    "backend": "lm_studio",
+    "model": "google/gemma-4-e2b",
+    "ollama_url": "http://localhost:11434/api/generate",
+    "lm_studio_url": "http://localhost:1234/v1/chat/completions",
+    "openai_url": "https://api.openai.com/v1/chat/completions",
+    "openai_api_key": "",
+    "anthropic_url": "https://api.anthropic.com/v1/messages",
+    "anthropic_api_key": "",
+    "bluetooth_port": 1,
+    "bluetooth_uuid": "00001101-0000-1000-8000-00805F9B34FB",
+    "mac_address": "00:BB:60:7E:42:DF"
+}
